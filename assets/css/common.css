@@ -1,0 +1,10 @@
+@charset "utf-8";
+/*
+	Document:	common.css
+	Author: 	Steve Withington | www.stephenwithington.com
+	Version: 	2011.09.02
+*/
+#subscriberFooter { font-size: 0.8em; padding: 2em 0 0 0; clear:both; display:block; }
+.red { color:#FF3A00; font-weight:bold; }
+.green { color:#009900; font-weight:bold; }
+.formWrapper { clear:both; display:block; padding:1em 0; }

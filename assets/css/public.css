@@ -1,0 +1,10 @@
+@charset "utf-8";
+/*
+	Document:	public.css
+	Author: 	Steve Withington | www.stephenwithington.com
+	Version: 	2011.09.02
+*/
+#subscriberBody { clear:both; display:block; padding:1em 0; margin:0; }
+#subscriberFooter { clear:both; display:block; font-size: 0.8em; padding: 1.5em 0 0 0; border-top:1px dotted #999999; }
+#subscriberFooter ul { display:inline; list-style:none; list-style-type:none; margin:0; padding:0; }
+#subscriberFooter ul li { display:list-item; float:left; padding:1em; margin:0; }
