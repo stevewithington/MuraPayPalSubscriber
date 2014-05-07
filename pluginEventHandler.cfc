@@ -19,7 +19,7 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 		Document:	pluginEventHandler.cfc
 		Author:		Steve Withington | www.stephenwithington.com
-		Modified:	2011.09.02
+		Modified:	2014.05.07
 
 --->
 <cfcomponent extends="mura.plugin.pluginGenericEventHandler">
@@ -85,7 +85,7 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 			</cfoutput>
 		</cfsavecontent>
 		<cfsavecontent variable="local.fw1Body">
-			<cfoutput>#doEvent($)#</cfoutput>
+			<cfoutput>#doAction($)#</cfoutput>
 		</cfsavecontent>		
 		<cfreturn local.muraBody & local.fw1Body />
 	</cffunction>

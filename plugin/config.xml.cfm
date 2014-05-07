@@ -3,7 +3,7 @@
 	<package>MuraPayPalSubscriber</package>
 	<directoryFormat>packageOnly</directoryFormat>
 	<loadPriority>5</loadPriority>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<provider>Steve Withington</provider>
 	<providerURL>http://stephenwithington.com</providerURL>
 	<category>Application</category>
